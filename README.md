@@ -1,7 +1,7 @@
 Hi, I’m @P4TRI0T
 
-I'm interested in cybersecurity, Python, Linux, and machine learning. 
-How to reach me: james.montrief@gmail.com
+- I'm interested in cybersecurity, Python, Linux, and machine learning. 
+- How to reach me: james.montrief@gmail.com
 
 <!---
 P4TRI0T/P4TRI0T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
