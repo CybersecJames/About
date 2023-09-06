@@ -1,6 +1,6 @@
 Hi, I’m @P4TRI0T
 
-- I'm interested in cybersecurity, Python, Linux, and machine learning. 
+- I'm interested in cybersecurity, penetration testing, GRC, and Linux.
 - How to reach me: james.montrief@gmail.com
 
 <!---
